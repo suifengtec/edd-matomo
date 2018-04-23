@@ -3,12 +3,12 @@ Matomo/Piwik for Easy Digital Downloads.
 
 ## Screenshot
 
-![](/1.png)
-![](/2.png)
-![](/3.png)
-![](/4.png)
-![](/5.png)
-![](/6.png)
+![](/screenshot/1.png)
+![](/screenshot/2.png)
+![](/screenshot/3.png)
+![](/screenshot/4.png)
+![](/screenshot/5.png)
+![](/screenshot/6.png)
 
 
 
